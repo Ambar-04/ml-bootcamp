@@ -1,2 +1,2 @@
-# ml-bootcamp
+# ml-bootcamp assignment submission
 ineuron ml bootcamp content
